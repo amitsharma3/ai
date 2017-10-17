@@ -2,7 +2,7 @@
 
 ### Books
 
-1. http://www.deeplearningbook.org/. An MIT Press book in preparation by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+1. [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/). An MIT Press book in preparation by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
 
 ### Papers
